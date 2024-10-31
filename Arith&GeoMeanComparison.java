@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TheMean2 {
+public class Arith&GeoMeanComparison {
     public static void main(String[] args) {
         double[] numbers = {45, 3, 12, 6};
         if (arithmeticMean(numbers) > geometricMean(numbers)) {
